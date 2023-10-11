@@ -1,0 +1,11 @@
+
+
+
+
+https://launchpad.net/~danielrichter2007/+archive/ubuntu/grub-customizer/+packages
+
+https://launchpad.net/~danielrichter2007/+archive/ubuntu/grub-customizer/+sourcefiles/grub-customizer/5.2.3-0ubuntu1~ppa2l/grub-customizer_5.2.3-0ubuntu1~ppa2l.debian.tar.xz
+
+https://launchpad.net/~danielrichter2007/+archive/ubuntu/grub-customizer/+sourcefiles/grub-customizer/5.2.3-0ubuntu1~ppa2l/grub-customizer_5.2.3.orig.tar.gz
+
+
